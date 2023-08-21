@@ -1,0 +1,21 @@
+body {
+  width: 300px;
+  padding: 10px;
+  font-family: Arial, sans-serif;
+  background-color: #206d93;
+}
+
+/* Style for the clock wrapper */
+.clock-wrapper {
+  font-size: 2em; /* Adjust the font size to your preference */
+  text-align: center;
+}
+
+/* Style for the clock text */
+#clock {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #333;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}

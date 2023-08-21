@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Clock",
+  "version": "1.0",
+  "description": "An extension that shows time and we can select other countries",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
