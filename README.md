@@ -33,10 +33,6 @@ The Clock Chrome Extension is a simple extension that displays the current time 
 
 Contributions are welcome! If you have any ideas, bug reports, or feature requests, please open an issue or submit a pull request.
 
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Created by Muhammad Qasim - [Change With Code](https://github.com/ChangeWithCode) 🌍
